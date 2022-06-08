@@ -1,0 +1,21 @@
+#upper-background{
+    height: 300px;
+    width: auto;
+    background-image: url(photos/plant\ background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#ProPic{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+#main-background{
+    background-color: black;
+    width: auto;
+    height: fit-content;
+}
