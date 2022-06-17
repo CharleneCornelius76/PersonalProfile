@@ -3,19 +3,22 @@
     width: auto;
     background-image: url(photos/plant\ background.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100% 100%;
+    
 }
 
 #ProPic{
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
     height: 300px;
     width: 300px;
-    border-radius: 50%;
-    display: flex;
-    justify-content: center;
+    
+    
 }
 
 #main-background{
     background-color: black;
     width: auto;
-    height: fit-content;
+    height: auto;
 }
